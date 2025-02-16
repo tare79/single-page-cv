@@ -1,0 +1,28 @@
+main {
+    margin-top: 70px;
+    margin-left: 40px;;
+}
+
+.h_line { 
+    width:80%; 
+    height:2px; 
+    background: black;
+}
+
+.green_title {
+    color: #88cc00;
+}
+
+.blue_title {
+    color: #0099ff;
+}
+
+section {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.space {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
